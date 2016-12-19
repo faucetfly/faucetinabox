@@ -24,8 +24,11 @@ We will do our best to make sure that the script stays up to date, if you find s
 <strong>2: Configure - </strong>
 Open config.php file with any text editor and replace default values with your database connection parameters. You can get them from your hosting provider.
 
-<strong>3: Finalize & Customize - </strong>
-Open your website and go to Admin Panel. You can customize your new faucet there. You can reach your admin panel by simply adding ?p=admin to the end of your domain. ie: http://yourdomainname.com/?p=admin
+<strong>2: Upload - </strong>
+Upload all files to your server. You can do this using and FTP, SFTP client.
+
+<strong>4: Finalize & Customize - </strong>
+Open your website and go to Admin Panel. You can customize your new faucet there. You can reach your admin panel by simply adding `?p=admin` to the end of your domain. ex: http://yourdomainname.com/?p=admin
 
 <h2>Script Requirements</h2>
 Everything should be already installed and enabled on most servers. If you have your own server, here are all requirements:
