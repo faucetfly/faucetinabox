@@ -1,0 +1,21 @@
+.transparent{
+   background-color: #222222;
+}
+.text-primary{
+    color: #2c3e50;
+}
+.bg-primary{
+    background-color: #2c3e50;
+}
+.bg-success{
+    background-color: #18bc9c;
+}
+.bg-info{
+    background-color: #3498db;
+}
+.bg-warning{
+    background-color: #f39c12;
+}
+.bg-danger{
+    background-color: #e74c3c;
+}

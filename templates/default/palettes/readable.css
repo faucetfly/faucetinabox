@@ -1,0 +1,30 @@
+.text-primary{
+    color: #4582ec;
+}
+.text-success{
+    color: #3fad46;
+}
+.text-info{
+    color: #5bc0de;
+}
+.text-warning{
+    color: #f0ad4e;
+}
+.text-danger{
+    color: #d9534f;
+}
+.bg-primary{
+    background-color: #4582ec;
+}
+.bg-success{
+    background-color: #3fad46;
+}
+.bg-info{
+    background-color: #5bc0de;
+}
+.bg-warning{
+    background-color: #f0ad4e;
+}
+.bg-danger{
+    background-color: #d9534f;
+}
